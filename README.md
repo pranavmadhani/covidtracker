@@ -8,7 +8,7 @@ COVID Tracker tutorial link: https://github.com/CSSEGISandData/COVID-19/tree/mas
 
 # How to run?
 
-You can download this code from repository and run the main file. After that you can navigate to http://localhost:8081/ to open the project. Application port can be changed by modifying application.properties server port value. You can check final application here. 
+You can download this code from repository and run the main file. After that you can navigate to http://localhost:8081/ to open the project. Application port can be changed by modifying application.properties server port value. You can check final application snapshot here. 
 
 https://imgur.com/75spJx9
 
